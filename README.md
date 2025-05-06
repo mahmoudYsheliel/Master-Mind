@@ -2,8 +2,8 @@
 
 An AI-powered solver for the classic number guessing game inspired by *Mastermind* and *Bulls and Cows*.
 
-![Uploading Screencast from 05-06-2025 03-09-05 PM.gif…]()
 
+![Screencast from 05-06-2025 03-09-05 PM](https://github.com/user-attachments/assets/5728ec43-dcb7-46e7-bb82-670d8f8abf52)
 
 ---
 
